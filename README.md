@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mohamed Mabrouk - DevOps Learner 🚀
 
-<!--
-**mohamedmabrouk-666/mohamedmabrouk-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a strong passion for **DevOps** and **Cloud Technologies**.
 
-Here are some ideas to get you started:
+🔧 Tools & Technologies I'm learning:
+- Git, Docker, Linux, Red Hat
+- Terraform, Kubernetes, AWS
+- Python scripting
+- CI/CD concepts and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Completed trainings with ITI and NTI in:
+- Programming (C/C++, Python)
+- Databases (PostgreSQL)
+- Web Development (HTML/CSS)
+- AI Fundamentals and Networking
+
+💡 Currently working on personal projects to apply DevOps skills.
+
+📫 Reach me at: mohamed.mabrouk.dev@gmail.com
+LinkedIn : https://www.linkedin.com/in/mohamed-mabrouk-443246275/
