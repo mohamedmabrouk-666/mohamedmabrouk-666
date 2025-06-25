@@ -16,5 +16,4 @@ I'm a Computer Engineering student with a strong passion for **DevOps** and **Cl
 
 💡 Currently working on personal projects to apply DevOps skills.
 
-📫 Reach me at: mohamed.mabrouk.dev@gmail.com
-LinkedIn : https://www.linkedin.com/in/mohamed-mabrouk-443246275/
+📫 Reach me at: https://www.linkedin.com/in/mohamed-mabrouk-443246275/
