@@ -33,5 +33,5 @@ I build and ship real projects — not just tutorials.
 - **NTI** — CCNA, CyberOps, Network Security
 - **ITI** — Programming, Databases, Web Foundations
 
-## 📫 Let's connect
+##  Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Mabrouk-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-mabrouk-443246275/)
