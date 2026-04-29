@@ -35,4 +35,3 @@ I build and ship real projects — not just tutorials.
 
 ##  Let's connect
  https://www.linkedin.com/in/mohamed-mabrouk-443246275/
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Mabrouk-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-mabrouk-443246275/)
