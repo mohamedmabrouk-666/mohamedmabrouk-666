@@ -1,19 +1,37 @@
-# Mohamed Mabrouk - DevOps Learner 
+# Hi, I'm Mohamed Mabrouk 
 
-I'm a Computer Engineering student with a strong passion for **DevOps** and **Cloud Technologies**.
+Computer Engineering graduate (Class of 2026) passionate about DevOps and Cloud infrastructure.
+I build and ship real projects — not just tutorials.
 
-🔧 Tools & Technologies I'm learning:
-- Git, Docker, Linux, Red Hat
-- Terraform, Kubernetes, AWS
-- Python scripting
-- CI/CD concepts and automation
+##  Tech Stack
+**DevOps & Cloud:** Docker · Kubernetes · Terraform · Ansible · GitHub Actions · AWS (EC2, S3)
+**Linux & Scripting:** Red Hat Linux · Bash · Python
+**Programming:** C++ · Python · SQL
+**Networking:** CCNA · CyberOps · Network Security (NTI)
 
-==> Completed trainings with ITI and NTI in:
-- Programming (C/C++, Python)
-- Databases (PostgreSQL)
-- Web Development (HTML/CSS)
-- AI Fundamentals and Networking
+##  Featured Projects
 
- Currently working on personal projects to apply DevOps skills.
+### MyShop — Full-Stack E-Commerce Platform
+> Flask · MySQL · Docker · Kubernetes · Terraform · GitHub Actions · Python
+- Built a complete e-commerce app with auth, cart, orders, and admin dashboard
+- Containerized with Docker, orchestrated with Kubernetes
+- Full CI/CD pipeline via GitHub Actions
+- Telegram bot integration for product search
 
- Reach me at: https://www.linkedin.com/in/mohamed-mabrouk-443246275/
+### DevOps Learning Pipeline — Login App
+> React · Node.js · PostgreSQL · Docker · Kubernetes · Terraform
+- End-to-end DevOps project covering the full toolchain
+- Deployed on Kubernetes with Nginx reverse proxy
+- Infrastructure provisioned with Terraform on AWS
+
+### Weather App — CI/CD Pipeline
+> Docker · GitHub Actions · Kubernetes
+- Automated build, test, and deploy pipeline from scratch
+
+##  Training
+- **Kloud Kode** — Kubernetes Hands-on
+- **NTI** — CCNA, CyberOps, Network Security
+- **ITI** — Programming, Databases, Web Foundations
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Mabrouk-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-mabrouk-443246275/)
