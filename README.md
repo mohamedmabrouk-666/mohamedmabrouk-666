@@ -1,4 +1,4 @@
-# Mohamed Mabrouk - DevOps Learner 🚀
+# Mohamed Mabrouk - DevOps Learner 
 
 I'm a Computer Engineering student with a strong passion for **DevOps** and **Cloud Technologies**.
 
@@ -8,12 +8,12 @@ I'm a Computer Engineering student with a strong passion for **DevOps** and **Cl
 - Python scripting
 - CI/CD concepts and automation
 
-📚 Completed trainings with ITI and NTI in:
+==> Completed trainings with ITI and NTI in:
 - Programming (C/C++, Python)
 - Databases (PostgreSQL)
 - Web Development (HTML/CSS)
 - AI Fundamentals and Networking
 
-💡 Currently working on personal projects to apply DevOps skills.
+ Currently working on personal projects to apply DevOps skills.
 
-📫 Reach me at: https://www.linkedin.com/in/mohamed-mabrouk-443246275/
+ Reach me at: https://www.linkedin.com/in/mohamed-mabrouk-443246275/
