@@ -60,5 +60,5 @@ Class of 2026
 ##  Let's connect
  https://www.linkedin.com/in/mohamed-mabrouk-443246275/
 
- **ُEmail**  mohamedmabroukrashad666666@gmail.com
+ **Email:** mohamedmabroukrashad666666@gmail.com
 
