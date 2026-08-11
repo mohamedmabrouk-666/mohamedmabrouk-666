@@ -1,37 +1,62 @@
-# Hi, I'm Mohamed Mabrouk 
+ # Hi, I'm Mohamed Mabrouk
 
-Computer Engineering graduate (Class of 2026) passionate about DevOps and Cloud infrastructure.
-I build and ship real projects — not just tutorials.
+Computer Engineering graduate (Class of 2026) interested in **Cloud Engineering and AWS**.
 
-##  Tech Stack
-**DevOps & Cloud:** Docker · Kubernetes · Terraform · Ansible · GitHub Actions · AWS (EC2, S3)
-**Linux & Scripting:** Red Hat Linux · Bash · Python
-**Programming:** C++ · Python · SQL
-**Networking:** CCNA · CyberOps · Network Security (NTI)
+I'm currently focusing on building my skills in AWS and learning how to design, deploy, and manage cloud infrastructure through hands-on projects.
 
-##  Featured Projects
+## Skills
 
-### MyShop — Full-Stack E-Commerce Platform
-> Flask · MySQL · Docker · Kubernetes · Terraform · GitHub Actions · Python
-- Built a complete e-commerce app with auth, cart, orders, and admin dashboard
-- Containerized with Docker, orchestrated with Kubernetes
-- Full CI/CD pipeline via GitHub Actions
-- Telegram bot integration for product search
+**AWS:** EC2 · VPC · S3 · RDS · IAM · ALB · Auto Scaling · CloudWatch
 
-### DevOps Learning Pipeline — Login App
-> React · Node.js · PostgreSQL · Docker · Kubernetes · Terraform
-- End-to-end DevOps project covering the full toolchain
-- Deployed on Kubernetes with Nginx reverse proxy
-- Infrastructure provisioned with Terraform on AWS
+**Networking:** VPC · Subnets · Route Tables · Internet Gateway · Security Groups
 
-### Weather App — CI/CD Pipeline
-> Docker · GitHub Actions · Kubernetes
-- Automated build, test, and deploy pipeline from scratch
+**Linux:** Ubuntu · Bash
 
-##  Training
-- **Kloud Kode** — Kubernetes Hands-on
-- **NTI** — CCNA, CyberOps, Network Security
-- **ITI** — Programming, Databases, Web Foundations
+**Infrastructure:** Terraform
+
+## Cloud Projects
+
+### AWS 3-Tier Web Application
+
+AWS project using:
+
+* VPC
+* EC2
+* Application Load Balancer
+* Auto Scaling
+* RDS
+* S3
+* IAM
+* Security Groups
+* .....
+
+The project focuses on deploying a web application on AWS with a scalable and secure architecture.
+
+### AWS Networking Project
+
+Hands-on project covering:
+
+* VPC
+* Public and private subnets
+* Route tables
+* Internet Gateway
+* Security Groups
+* ....
+
+## Currently Learning
+
+* AWS Cloud Architecture
+* AWS Networking
+* IAM and Security
+* High Availability and Auto Scaling
+* Infrastructure as Code with Terraform
+* .....
+
+## Education
+
+**B.Sc. in Computer Engineering — Minya University**
+Class of 2026
 
 ##  Let's connect
  https://www.linkedin.com/in/mohamed-mabrouk-443246275/
+
